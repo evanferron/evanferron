@@ -30,19 +30,6 @@ Technologies and tools I use in a professional environment:
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=evanferron&show_icons=true&theme=dracula&locale=en" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanferron&layout=compact&theme=dracula&langs_count=6" alt="Top Languages" height="150" />
-</p>
-
----
-
 ### 🤝 Get in Touch
 - 💼 [LinkedIn](https://www.linkedin.com/in/evan-ferron-2b6a9a254)
 - 📧 [evan.ferron53@gmail.com](mailto:evan.ferron53@gmail.com)
-
----
-
-*"The best way to predict the future is to create it."*
